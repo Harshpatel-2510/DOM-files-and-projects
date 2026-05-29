@@ -3,7 +3,7 @@ import React from 'react'
 const Nav = () => {
   return (
     <div className="navbar">
-        <div className="title"><i class="ri-expand-left-right-line"></i>AgentQL</div>
+        <div className="title"><img src="src/component/ChatGPT_Image_May_28__2026__02_35_02_PM__Main_logo_-removebg-preview.png" alt="" /></div>
         <div className="menu">
             <div className="menu_item">Docs</div>
             <div className="menu_item">Pricing</div>
